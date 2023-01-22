@@ -94,12 +94,12 @@ header h1 {
 
 .block h2 {
     position: absolute;
-    text-shadow: 2px 2px 3px #000;
+    text-shadow: 2px 2px 3px #FFF;
     font-size: 2em;
-    color: #FFF;
+    color: #000;
     bottom: 1em;
     left: .5em;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 small {
