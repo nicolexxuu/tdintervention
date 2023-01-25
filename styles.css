@@ -66,13 +66,14 @@ header h1 {
 /* BLOCKS */
 #products .row {
     padding: 3px;
+    background: #012168;
 }
 
 .block {
     display: inline-block;
     width: 100%;
     height: 100%;
-    border: 3px solid #FFF;
+    border: 3px solid #012168;
 }
 
 
