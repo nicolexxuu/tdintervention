@@ -171,3 +171,12 @@ footer li {
     position: relative;
     top: -50px;
 }
+
+li>p:first-of-type {
+    margin-bottom: 0em;
+    font-weight: 500;
+}
+
+.contacts h2 {
+    margin-top: 1em;
+}
